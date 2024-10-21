@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/Coffee</item>
+            <item name="colorPrimaryDark">@color/Coffee</item>
+            <item name="android:textColorPrimary">@color/white</item>
+            <item name="android:navigationBarColor">@color/Coffee</item>
+            <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>
